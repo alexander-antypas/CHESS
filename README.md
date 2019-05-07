@@ -1,1 +1,1 @@
-Transfer
+CHESS_MIN_MAX
